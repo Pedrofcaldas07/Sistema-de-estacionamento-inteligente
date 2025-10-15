@@ -8,3 +8,6 @@ Pedro Caldas e Gabriel Castro
    -Montagem do circuito: Pegamos modelos prontos de alguns itens, como o LCD L2C e tambem o micro servo, e montamos seguindo a logica base que construimos;
    
    -Construção do codigo: Construimos a logica e com auxilio de IAs e videos fomos usando alguns itens propio do arudino, e corrigindo o codigo. 
+
+
+Link do projeto: https://www.tinkercad.com/things/bLaZ505vfVP-projetosipg/editel?returnTo=%2Fthings%2FbLaZ505vfVP-projetosipg&sharecode=_T-TGsDfIUN-eXwOuE0HFNyAXQwk3C05KF6iqjW7t44
